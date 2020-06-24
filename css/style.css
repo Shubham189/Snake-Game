@@ -1,0 +1,29 @@
+#score{
+    font-size: 2em;
+    text-align : center;
+    font-weight: bold;
+}
+
+#dead{
+    font-size: 2em;
+    text-align : center;
+    font-weight: bold;
+}
+
+#pause{
+    font-size: 2em;
+    text-align : center;
+    font-weight: bold;
+}
+
+#instruction_heading{
+    font-size: 2em;
+    text-align : center;
+    font-weight: bold;
+}
+
+#instruction_content{
+    margin-left: 200px;
+    font-size: 1em;
+    text-align : left;
+}
